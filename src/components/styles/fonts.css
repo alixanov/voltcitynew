@@ -1,0 +1,17 @@
+/* Import Google Fonts for MedievalSharp and Goudy Old Style */
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Goudy+Old+Style&display=swap');
+
+/* Define font variables */
+:root {
+  --font-primary: "MedievalSharp", "Goudy Old Style", serif;
+  --font-heading: "UnifrakturCook", "MedievalSharp", "Goudy Old Style", serif;
+}
+
+/* Fallback for UnifrakturCook if not locally available */
+@font-face {
+  font-family: "UnifrakturCook";
+  src: local("UnifrakturCook"), url("../fonts/MedievalSharp-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
