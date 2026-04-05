@@ -505,7 +505,7 @@ const Home = () => {
                       <div className="tech-label">Разъём</div>
                     </TechItem>
                   </TechRow>
-                  
+
                   <PortsVisual>
                     <PortsLabel>Порты:</PortsLabel>
                     <PortCircles>

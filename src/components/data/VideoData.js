@@ -1,7 +1,7 @@
 const VideoData = [
   {
     id: '70XZ__44CEc',
-    imageUrl: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
     address: 'г. Ташкент, ул. Амира Темура, 15, ТЦ «Мега Планет»',
     coordinates: '41°18\'40"с.ш., 69°16\'47"в.д.',
     operator: 'ЭлектроТашкент',
@@ -15,7 +15,7 @@ const VideoData = [
       channelTitle: 'ElectroTashkent',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
           width: 320,
           height: 180,
         },
@@ -27,7 +27,7 @@ const VideoData = [
   },
   {
     id: 'GeCodRjs1Bs',
-    imageUrl: 'https://images.unsplash.com/photo-1591444029532-638550756778?w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
     address: 'г. Самарканд, ул. Регистан, 8, рядом с историческим центром',
     coordinates: '39°39\'15"с.ш., 66°58\'32"в.д.',
     operator: 'EV Uzbekistan',
@@ -41,7 +41,7 @@ const VideoData = [
       channelTitle: 'EV Uzbekistan',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1591444029532-638550756778?w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
           width: 320,
           height: 180,
         },
@@ -53,7 +53,7 @@ const VideoData = [
   },
   {
     id: 'yZkb78jEmjc',
-    imageUrl: 'https://images.unsplash.com/photo-1695662141973-5f04886618e9?w=800',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
     address: 'г. Бухара, ул. Бахауддина Накшбанда, 23, ТРЦ «Саманид»',
     coordinates: '39°46\'29"с.ш., 64°25\'43"в.д.',
     operator: 'AutoOrient',
@@ -67,7 +67,7 @@ const VideoData = [
       channelTitle: 'AutoOrient',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1695662141973-5f04886618e9?w=800',
+          url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
           width: 320,
           height: 180,
         },
@@ -79,7 +79,7 @@ const VideoData = [
   },
   {
     id: 'rzxzf0XJUBc',
-    imageUrl: 'https://images.pexels.com/photos/9800010/pexels-photo-9800010.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
     address: 'г. Фергана, просп. Ахмада Фергани, 45, бизнес-центр «Азия»',
     coordinates: '40°23\'11"с.ш., 71°47\'03"в.д.',
     operator: 'ElectroDriveUZ',
@@ -93,7 +93,7 @@ const VideoData = [
       channelTitle: 'ElectroDriveUZ',
       thumbnails: {
         medium: {
-          url: 'https://images.pexels.com/photos/9800010/pexels-photo-9800010.jpeg?auto=compress&cs=tinysrgb&w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
           width: 320,
           height: 180,
         },
@@ -105,7 +105,7 @@ const VideoData = [
   },
   {
     id: 'qpkeqJpNJjs',
-    imageUrl: 'https://images.unsplash.com/photo-1593941810793-99933544d673?w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
     address: 'г. Наманган, ул. Наманганская, 67, ТЦ «Наманган Сити»',
     coordinates: '41°00\'04"с.ш., 71°40\'06"в.д.',
     operator: 'GreenMobilityUZ',
@@ -119,7 +119,7 @@ const VideoData = [
       channelTitle: 'GreenMobilityUZ',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1593941810793-99933544d673?w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
           width: 320,
           height: 180,
         },
@@ -131,7 +131,7 @@ const VideoData = [
   },
   {
     id: '5DFhiJ-FYtU',
-    imageUrl: 'https://images.unsplash.com/photo-1620108343713-17686523916b?w=800',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
     address: 'г. Андижан, ул. Бабура, 12, рынок «Андижан»',
     coordinates: '40°46\'55"с.ш., 72°20\'39"в.д.',
     operator: 'EV Station Review',
@@ -145,7 +145,7 @@ const VideoData = [
       channelTitle: 'EV Station Review',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1620108343713-17686523916b?w=800',
+          url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
           width: 320,
           height: 180,
         },
@@ -157,7 +157,7 @@ const VideoData = [
   },
   {
     id: 'O20T9rfiCtg',
-    imageUrl: 'https://images.unsplash.com/photo-1619641075670-366113b2c153?w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
     address: 'г. Карши, ул. Навои, 34, ТРК «Карши Молл»',
     coordinates: '38°51\'48"с.ш., 65°47\'52"в.д.',
     operator: 'ElectroLife',
@@ -171,7 +171,7 @@ const VideoData = [
       channelTitle: 'ElectroLife',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1619641075670-366113b2c153?w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
           width: 320,
           height: 180,
         },
@@ -183,7 +183,7 @@ const VideoData = [
   },
   {
     id: '39nH69s8KII',
-    imageUrl: 'https://images.pexels.com/photos/8827011/pexels-photo-8827011.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
     address: 'г. Нукус, ул. Бердаха, 56, ТЦ «Нукус»',
     coordinates: '42°27\'53"с.ш., 59°36\'08"в.д.',
     operator: 'UzbekEV',
@@ -197,7 +197,7 @@ const VideoData = [
       channelTitle: 'UzbekEV',
       thumbnails: {
         medium: {
-          url: 'https://images.pexels.com/photos/8827011/pexels-photo-8827011.jpeg?auto=compress&cs=tinysrgb&w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
           width: 320,
           height: 180,
         },
@@ -209,7 +209,7 @@ const VideoData = [
   },
   {
     id: '-5enjAOb978',
-    imageUrl: 'https://images.unsplash.com/photo-1675713437582-747d25391d17?w=800',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
     address: 'г. Ургенч, ул. Аль-Хорезми, 8, АЗС «Ургенч»',
     coordinates: '41°33\'00"с.ш., 60°38\'00"в.д.',
     operator: 'FastChargeUZ',
@@ -223,7 +223,7 @@ const VideoData = [
       channelTitle: 'FastChargeUZ',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1675713437582-747d25391d17?w=800',
+          url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
           width: 320,
           height: 180,
         },
@@ -235,7 +235,7 @@ const VideoData = [
   },
   {
     id: 'FQ119ytSLfc',
-    imageUrl: 'https://images.unsplash.com/photo-1620108252243-0ba7f407747e?w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
     address: 'г. Термез, ул. Термезская, 23, ТЦ «Термез»',
     coordinates: '37°13\'25"с.ш., 67°16\'42"в.д.',
     operator: 'MobilityNow',
@@ -249,7 +249,7 @@ const VideoData = [
       channelTitle: 'MobilityNow',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1620108252243-0ba7f407747e?w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
           width: 320,
           height: 180,
         },
@@ -261,7 +261,7 @@ const VideoData = [
   },
   {
     id: 'VTjbZ7jVhOQ',
-    imageUrl: 'https://images.unsplash.com/photo-1647462105582-4592038ff593?w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
     address: 'г. Ташкент, просп. Мустакиллик, 2, ТРЦ «Афросиаб»',
     coordinates: '41°17\'55"с.ш., 69°15\'10"в.д.',
     operator: 'EV Top Uzbekistan',
@@ -275,7 +275,7 @@ const VideoData = [
       channelTitle: 'EV Top Uzbekistan',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1647462105582-4592038ff593?w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/05/rkWuiJ16830121231938_b.jpg',
           width: 320,
           height: 180,
         },
@@ -287,7 +287,7 @@ const VideoData = [
   },
   {
     id: 'jxMOetCCmLU',
-    imageUrl: 'https://images.pexels.com/photos/10103134/pexels-photo-10103134.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
     address: 'г. Самарканд, ул. Университетская, 55, ТЦ «Самарканд»',
     coordinates: '39°38\'40"с.ш., 66°57\'18"в.д.',
     operator: 'GreenEnergyUZ',
@@ -301,7 +301,7 @@ const VideoData = [
       channelTitle: 'GreenEnergyUZ',
       thumbnails: {
         medium: {
-          url: 'https://images.pexels.com/photos/10103134/pexels-photo-10103134.jpeg?auto=compress&cs=tinysrgb&w=800',
+          url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
           width: 320,
           height: 180,
         },
@@ -313,7 +313,7 @@ const VideoData = [
   },
   {
     id: 'R00dqYkE1J8',
-    imageUrl: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800',
+    imageUrl: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
     address: 'г. Бухара, ул. Накшбанда, 10, АЗС «БухараЭнерго»',
     coordinates: '39°46\'10"с.ш., 64°24\'55"в.д.',
     operator: 'AutoElectric',
@@ -327,7 +327,7 @@ const VideoData = [
       channelTitle: 'AutoElectric',
       thumbnails: {
         medium: {
-          url: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800',
+          url: 'https://www.gazeta.uz/media/img/2023/02/y0IGIv16758362987065_b.jpg',
           width: 320,
           height: 180,
         },
@@ -339,7 +339,7 @@ const VideoData = [
   },
   {
     id: 'q7cGysKCfmQ',
-    imageUrl: 'https://images.pexels.com/photos/9796405/pexels-photo-9796405.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-WTyAYZrz1CMQR3nfDk9GLTD2qrZd4W9ug&s',
     address: 'г. Фергана, ул. Мустакиллик, 33, парковка «Центр»',
     coordinates: '40°22\'50"с.ш., 71°46\'30"в.д.',
     operator: 'ChargePointUZ',
@@ -353,7 +353,7 @@ const VideoData = [
       channelTitle: 'ChargePointUZ',
       thumbnails: {
         medium: {
-          url: 'https://images.pexels.com/photos/9796405/pexels-photo-9796405.jpeg?auto=compress&cs=tinysrgb&w=800',
+          url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-WTyAYZrz1CMQR3nfDk9GLTD2qrZd4W9ug&s',
           width: 320,
           height: 180,
         },
@@ -365,7 +365,7 @@ const VideoData = [
   },
   {
     id: 'R3PDfBoyrSY',
-    imageUrl: 'https://images.pexels.com/photos/9800010/pexels-photo-9800010.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjq8ZmuJl1mC7N-iT7UkCdx_lecaOJ9D9eg&s',
     address: 'г. Наманган, ул. Навои, 18, ТЦ «НаманганМолл»',
     coordinates: '41°00\'20"с.ш., 71°39\'45"в.д.',
     operator: 'ElectroNetwork',
@@ -379,10 +379,11 @@ const VideoData = [
       channelTitle: 'ElectroNetwork',
       thumbnails: {
         medium: {
-          url: 'https://images.pexels.com/photos/9800010/pexels-photo-9800010.jpeg?auto=compress&cs=tinysrgb&w=800',
+          url: '',
           width: 320,
           height: 180,
         },
+        
       },
       publishedAt: new Date(Date.now() - 1000 * 60 * 60 * 24 * 55).toISOString(),
       description: 'Масштабное открытие зарядной инфраструктуры для электромобилей в Намангане у центрального здания.',
@@ -391,4 +392,4 @@ const VideoData = [
   },
 ];
 
-export default VideoData;
+export default VideoData; 
